@@ -1,0 +1,14 @@
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\bin\Debug\netcoreapp2.2\api.deps.json
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\bin\Debug\netcoreapp2.2\api.dll
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\bin\Debug\netcoreapp2.2\api.pdb
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\obj\Debug\netcoreapp2.2\api.dll
+R:\matru\Documents\GitHub\sample-excel-plugin\server\api\obj\Debug\netcoreapp2.2\api.pdb
