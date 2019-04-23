@@ -1,0 +1,13 @@
+//static function OnBeforeRequest(oSession: Session) {
+    ...
+    else if (oSession.HostnameIs("sep.nobugs-justfeatures.com")) {
+                // Handle CONNECT Tunnels
+                if (oSession.HTTPMethodIs("CONNECT"))
+                {
+                    oSession["x-replywithtunnel"] = "FakeTunnel";
+                    return;
+                }
+                oSession.fullUrl = "http://sep.localhost:80" + oSession.PathAndQuery;
+            }
+    ...
+}

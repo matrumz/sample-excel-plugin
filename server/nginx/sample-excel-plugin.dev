@@ -1,6 +1,6 @@
 server {
     listen 80;
-    server_name sep.nobugs-justfeatures.com;
+    server_name sep.localhost;
     location / {
         proxy_pass         http://localhost:5000;
     }
